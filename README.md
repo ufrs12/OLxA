@@ -13,6 +13,10 @@ Open Logical Tools Architecture
 Open Logical Home Architecture  
 Умный дом
 
+## OLСA
+Open Logical CNC Architecture  
+ЧПУ
+
 ## OLAA
 Open Logical Auto Architecture  
 Автомоблильная электроника/средства диагностики
