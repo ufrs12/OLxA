@@ -4,7 +4,7 @@ Open Logical X Architectures
 A family of open architectures. The main architecture of the family is OLIA. The goal of this project is to search and develop an open stack of industrial automation tools. Also the implementation of this stack in various other activities.
 
 ## OLIA
-Open Logical Industrial Architecture  
+[Open Logical Industrial Architecture ](https://github.com/ufrs12/OLIA) 
 
 ## OLTA
 Open Logical Tools Architecture  
