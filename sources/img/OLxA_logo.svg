@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="OLxA_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="-27"
+     inkscape:cy="736.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:none;stroke:#b4a969;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 76.839078,234.75876 -37.215027,4e-5 c -4.315783,0 -5.228757,0.55163 -4.763968,-3.03965 l 7.934169,-61.30493"
+       sodipodi:nodetypes="cssc" />
+    <path
+       id="path1-1"
+       style="fill:none;stroke:#b4a969;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 47.773789,169.35163 33.879979,-3e-5 c 3.929017,0 4.760172,-0.51473 4.337034,2.83632 l -7.223134,57.20403"
+       sodipodi:nodetypes="cssc" />
+    <rect
+       style="fill:none;stroke:#b4a969;stroke-width:4.51872643;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-3"
+       width="58.902027"
+       height="82.060722"
+       x="-115.84472"
+       y="-244.59113"
+       ry="6.7899375"
+       transform="matrix(-1,0,0.12835092,-0.99172881,0,0)" />
+  </g>
+</svg>
