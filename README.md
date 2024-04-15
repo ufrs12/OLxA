@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="200px" src="sources/img/logo/OLxA_logo.png" alt="qr"/>
+ <img width="100px" src="sources/img/logo/OLxA_logo.png" alt="qr"/>
 </p>
 
 # OLxA  
