@@ -2,6 +2,7 @@
 <p align="center">
  <img width="200px" src="sources/img/logo/OLxA_logo.png" alt="qr"/>
 </p>
+
 # OLxA  
 Open Logical X Architectures  
 
