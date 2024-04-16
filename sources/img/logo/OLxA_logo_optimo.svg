@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#b4a969" stroke-linejoin="bevel">
-  <path d="m76.839 234.76-37.215 4e-5c-4.3158 0-5.2288 0.55163-4.764-3.0396l7.9342-61.305" stroke-linecap="round" stroke-width="4.5" style="paint-order:fill markers stroke"/>
-  <path d="m47.774 169.35 33.88-3e-5c3.929 0 4.7602-0.51473 4.337 2.8363l-7.2231 57.204" stroke-linecap="round" stroke-width="2.25" style="paint-order:fill markers stroke"/>
-  <rect transform="matrix(-1 0 .12835 -.99173 0 0)" x="-115.84" y="-244.59" width="58.902" height="82.061" ry="6.7899" stroke-width="4.5187" style="paint-order:fill markers stroke"/>
+ <g fill="none" stroke="#b4a969">
+  <g stroke-linecap="round" stroke-linejoin="bevel">
+   <path d="m76.839 234.76-37.215 4e-5c-4.3158 0-5.2288 0.55163-4.764-3.0396l7.9342-61.305" stroke-width="4.5" style="paint-order:fill markers stroke"/>
+   <path d="m47.774 169.35 33.88-3e-5c3.929 0 4.7602-0.51473 4.337 2.8363l-7.2231 57.204" stroke-width="2.25" style="paint-order:fill markers stroke"/>
+   <path d="m96.804 189.3 3.1762 5.8834c1.8665 3.4574 2.0865 3.4724-0.35073 5.8109l-5.5726 5.3468" stroke-width="2.25" style="paint-order:fill markers stroke"/>
+  </g>
+  <rect transform="matrix(-1 0 .12835 -.99173 0 0)" x="-115.84" y="-244.59" width="58.902" height="82.061" ry="6.7899" stroke-linejoin="bevel" stroke-width="4.5187" style="paint-order:fill markers stroke"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <path d="m93.927 173.57 26.458 47.89" stroke-width="4.5" style="paint-order:fill markers stroke"/>
+   <path d="m88.635 218.02 19.05-17.727" stroke-width="4.5" style="paint-order:fill markers stroke"/>
+   <path d="m107.34 208.17 7.5473 14.271" stroke-width="2.25" style="paint-order:fill markers stroke"/>
+  </g>
  </g>
 </svg>
