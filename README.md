@@ -12,7 +12,9 @@ A family of open architectures. The main architecture of the family is OLIA. The
 <p align="center">
  <img width="100px" src="src\logo\OLIA.png" alt="qr"/>
 </p>
-[Open Logical Industrial Architecture ](https://github.com/ufrs12/OLIA) 
+
+[Open Logical Industrial Architecture ](https://github.com/ufrs12/OLIA)  
+[Open Logical Industrial Architecture RU](https://github.com/ufrs12/OLIA-RU/)
 
 ## OLTA
 Open Logical Tools Architecture  
