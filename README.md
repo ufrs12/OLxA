@@ -16,29 +16,29 @@ A family of open architectures. The main architecture of the family is OLIA. The
 [Open Logical Industrial Architecture ](https://github.com/ufrs12/OLIA)  
 [Open Logical Industrial Architecture RU](https://github.com/ufrs12/OLIA-RU/)
 
-## OLTA
-Open Logical Tools Architecture  
-
 ## OLHA
+<p align="center">
+ <img width="100px" src="src\logo\OLHA.png" alt="qr"/>
+</p>
+
 Open Logical Home Architecture  
 
-## OLСA
-Open Logical CNC Architecture  
+## OLTA
+<p align="center">
+ <img width="100px" src="src\logo\OLTA.png" alt="qr"/>
+</p>
 
-## OLAA
-Open Logical Auto Architecture  
-
-## OLLA
-Open Logical Lab Architecture  
-
-## OLFA
-Open Logical Farm Architecture  
-
-## OLMA
-Open Logical Medical Architecture  
+Open Logical Tools Architecture  
 
 ## OLEA
+<p align="center">
+ <img width="100px" src="src\logo\OLEA.png" alt="qr"/>
+</p>
+
 Open Logical Education Architecture  
 
-## OLGA
-Open Logical Gadget Architecture  
+## OLSA
+<p align="center">
+ <img width="100px" src="src\logo\OLSA.png" alt="qr"/>
+</p>
+Open Logical Social Architecture  
